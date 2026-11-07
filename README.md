@@ -51,7 +51,7 @@
 ## ⚡ Производительность
 
 <p align="center">
-  <img src="media/fps.png" alt="График среднего FPS: Minecraft, Horizon и KrasWorld на дальности 8 и 32" width="90%">
+  <img src="media/fps-compare.png" alt="График среднего FPS: Minecraft, Horizon и KrasWorld на дальности 8 и 32" width="90%">
 </p>
 
 | | Minecraft 26.3 | Horizon | **KrasWorld** |
