@@ -1,0 +1,18 @@
+KrasWorld Launcher and KrasWorld (the game program)
+====================================================
+
+KrasWorld is built on Horizon (https://github.com/horizon-rust/horizon), a rewrite of
+Minecraft: Java Edition in Rust, used under the MIT License:
+
+  Copyright (c) 2026 Ludovic Marie and the Horizon contributors
+
+The full MIT License text is in LICENSE beside this file. The notices of the third-party
+components it includes are in THIRD_PARTY_NOTICES.md.
+
+Components under the Mozilla Public License 2.0 are used unmodified; their source code is
+available where they are published: symphonia (https://github.com/pdeljanov/Symphonia),
+dwrote (https://crates.io/crates/dwrote), option-ext (https://crates.io/crates/option-ext).
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+KrasWorld contains no Minecraft code or assets: it prepares them from your own copy of
+Minecraft: Java Edition, which needs a Microsoft account that owns the game.
